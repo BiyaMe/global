@@ -14,7 +14,6 @@ $a = $z + $y - ($x % $y) + ($x * $z) + ($y / 2) * ($x - $y * $z); // Another Com
 echo ($a + $x + $y + $z), "\n"; // prints -7938
 
 echo ($x + $y), "\n";  // prints 36
-
 $result = 2 * ($x + $y);
 
 echo $result, "\n"; // prints 72

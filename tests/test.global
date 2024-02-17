@@ -33,9 +33,9 @@ System.out.println(remainder);
 
 // Test Logical Operations
 var p = true;
-var q = false;
-var logicalAnd = p && q;
-var logicalOr = p || q;
+let q = false;
+const logicalAnd = p && q;
+int logicalOr = p || q;
 var logicalNot = !p;
 
 cout << "Logical Operations:" << endl;

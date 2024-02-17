@@ -106,3 +106,11 @@ int main( int argc, char* argv[] ) { // take file name as parameter
 
     return 0;
 }
+
+
+//   Name                    Id                Class
+// Ararsa Dereje         Ets 0152/13           A
+// Birhanu Worku         Ets 0279/13           A
+// Biruk Mesfin          Ets 0290/13           A
+// Bisrat Kebere         Ets 0306/13           A
+// Biyaol Mesay          Ets 0309/13           A
